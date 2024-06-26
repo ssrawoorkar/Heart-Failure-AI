@@ -7,7 +7,7 @@ function LandingPage(props) {
   return (
     <div>
       <Header />
-      <h2>Age</h2><input className='Age'></input>
+      <h2>Age12</h2><input className='Age'></input>
       <Footer />
     </div>
   );
