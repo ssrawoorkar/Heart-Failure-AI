@@ -22,4 +22,14 @@
     color: white;
     text-decoration: none;
   }
+
+  .AgeLabel {
+    color: black;
+    margin-left: 20px;
+    font-size: 20px
+  }
+
+  .AgeInput {
+    margin-left: 20px;
+  }
   

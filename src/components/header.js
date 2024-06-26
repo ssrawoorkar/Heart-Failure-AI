@@ -5,7 +5,8 @@ function Header() {
   return (
     <header className="header">
       <div className="header-content">
-        <h1 className="logo">MyApp</h1>
+        <h1 className="logo">Heart Health</h1>
+        
       </div>
     </header>
   );
